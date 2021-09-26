@@ -7,7 +7,7 @@
 * math.h 
 
 # Références
-*
+* https://www.youtube.com/watch?v=6nkUWnCoRp4&ab_channel=FormationVid%C3%A9o
 *
 
 
