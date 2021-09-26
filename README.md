@@ -4,7 +4,7 @@ L'objectif de ce dossier est de réaliser les exercices donnés dans les séance
 ## Environnement de programmation :
 * Système d'exploitation : Linux
        * Ubuntu
-       * Machine virtuelle (VirtualBox) + Ubuntu
+           * Machine virtuelle (VirtualBox) + Ubuntu
 * Compilateur : gcc
 * Logiciels : gnuplot
        * Installation : sudo apt install gnuplot
