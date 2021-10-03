@@ -1,5 +1,11 @@
+/* Bibliothèques */
+
 #include <stdio.h>
+
+/*----------------------------------------------------------------------------*/ 
+
 int main () {
+	printf("\n------ Exercice 1.4 : variables ------\n\n");
 	char my_char_var = 120;
 	unsigned char my_uchar_var = 253; 
 	short my_short_var = -2021;
