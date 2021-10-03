@@ -10,3 +10,5 @@ L'objectif de ce dossier est de réaliser les exercices donnés dans les séance
      * Installation : sudo apt install gnuplot
 ## Author 
 * Mariem Ben Salah
+* Silia Taider
+* Omar Gasri
