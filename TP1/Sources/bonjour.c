@@ -1,4 +1,4 @@
-/*Bibiliothéques*/
+/* Bibiliothèques */
 
 #include <stdio.h>
 
