@@ -20,4 +20,4 @@
 
 # Commentaires
 Le cours a bien servi afin de résoudre ces exercices.
-Le TP1 était une vraie application directe du cours et je pense l'avoir bien réussi sans grandes difficultés.
+Le TP1 était une vraie application directe du cours et on pense l'avoir bien réussi sans grandes difficultés.
