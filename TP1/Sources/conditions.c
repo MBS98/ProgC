@@ -1,16 +1,23 @@
-#include <stdio.h>
-int main () {
+/* Bibliothèques */
 
-	printf("les nombres divisibles par 2 ou 15 sont : \n");
+#include <stdio.h>
+
+/*----------------------------------------------------------------------*/
+
+int main () {
+	printf("\n------ Exercice 1.7 : conditions ------\n\n");
+	
+	/*-------------------------------------------------------------*/
+	printf("les nombres <= 1000 qui sont divisibles par 2 ou 15 sont : \n");
 	for (int i = 0; i <= 1000; i++) {
 		if (i % 2 == 0 & i % 15 == 0) {
 			printf(" %d ",i ) ;
 		}	
 	}
-
-
+	
+	/*-------------------------------------------------------------*/
 	int j = 0 ;
-	printf("les nombres divisibles par 103 ou 107 sont : \n");	
+	printf("\n\nles nombres <= 1000 qui sont divisibles par 103 ou 107 sont : \n");	
 	while ( j <=1000 ) {
 		if (j % 103 == 0 || j % 107 == 0){
 			printf("%d ",j);
@@ -18,11 +25,11 @@ int main () {
 	j ++;
 	}
 	
-
+	/*-------------------------------------------------------------*/
 	int k = 0;
-	printf("les nombres divisibles par 7 ou 5 mais pas 3 sont : \n");
+	printf("\n\nles nombres <= 1000 qui sont divisibles par 7 ou 5 mais pas 3 sont : \n");
 	do {
-		if ((k % 5 == 0) || (k % 7 == 0) & (k % 3 != 0)){
+		if ((k % 5 == 0) | (k % 7 == 0) & (k % 3 != 0)){
 			printf("%d ",k);		
 		}
 	k++;
