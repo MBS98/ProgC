@@ -1,4 +1,4 @@
-/* Bibliothèques*/
+/* Bibliothèques */
 
 #include <stdio.h>
 #include <math.h>
