@@ -29,8 +29,8 @@ int main () {
 	printf("\n");
 	printf("* Méthode N°2 : Boucle For *\n\n");
 		
-	for (int i = 0 ; i <= compteur ; i++) {
-		if (i < compteur) {
+	for (int i = 0 ; i < compteur ; i++) {
+		if (i < compteur - 1) {
 			for (int j = 0 ; j <= i ; j++) {
 				if (j!=i & j!=0) {
 					printf("# ");
@@ -53,10 +53,10 @@ int main () {
 	int i = 0;
 	printf("\n");
 
-	while (i <= compteur) {
+	while (i < compteur) {
 
 		int j = 0;
-		if (i < compteur) {
+		if (i < compteur - 1) {
 			j=0;
 			while (j <= i) {
 				if (j!=i & j!=0) {
