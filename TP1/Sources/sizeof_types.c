@@ -1,5 +1,11 @@
-#include <stdio.h>
+/* Bibliothèques */
+
+#include <stdio.h> 
+
+/*-------------------------------------------------------------------------------------*/
+
 int main () {
+	printf("\n------ Exercice 1.3 : sizeof_types ------\n\n");
 	printf("la taille d'un unsigned char est : %ld\n",sizeof(unsigned char));
 	printf("la taille d'un signed char est : %ld\n",sizeof(signed char));
 	printf("la taille d'un short est : %ld\n",sizeof(unsigned short));
