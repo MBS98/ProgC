@@ -8,7 +8,7 @@
 #define n 11
 
 int main() {
-	
+	printf("\n------ Exercice 2.3 : Fibonacci ------\n\n");
 	int U0 = 1;
 	int U1 = 1;
 	int tab[n] = {U0,U1};
