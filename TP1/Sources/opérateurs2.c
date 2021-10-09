@@ -22,7 +22,7 @@ int main () {
 	break;
 	case '/' : printf(" num1 / num 2 = : %d\n", num1/num2);
 	break;
-	case '%' : printf(" num1 modulo num 2 = : %d\n", num1%num2);
+	case '%' : printf(" num1 %% num 2 = : %d\n", num1%num2);
 	break;
 	case '&' : printf(" num1 & num 2 = : %d\n", num1&num2);
 	break;
