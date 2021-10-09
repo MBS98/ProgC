@@ -19,4 +19,4 @@
 
 # Commentaires
 
-* Il était interessant de voir comment on pouvait résoudre les exercices avec des pointeurs ou avec les différentes boucles logiques. On a appris à utiliser les 2 méthodes et à choisir laquelle est plus pertinente selon de type de questions.
+* Il était interessant de voir comment on pouvait résoudre les exercices avec des pointeurs ou avec les différentes boucles logiques. On a appris à utiliser les 2 méthodes et à choisir laquelle est plus pertinente selon le type de questions.
