@@ -5,12 +5,14 @@
 /*--------------------------------------------------------------------------------------------*/ 
 
 int main() {
-	printf("\n------ Exercice 1.5 : opérateurs ------\n\n");
+	printf("\n------ Exercice 1.5 : Test des opérateurs arithmétiques et logiques ------\n\n");
+	
+	/* Initialisation des variables */ 
 	int a = 16;
 	int b = 3;
 	
-	// les opérateurs arithmétiques
-	printf("test des opérateurs arithmétiques sur a = %d et b = %d\n\n",a,b);
+	/* Les opérateurs arithmétiques */
+	printf("Test des opérateurs arithmétiques sur a = %d et b = %d\n\n",a,b);
 	printf(" la somme a + b = %d\n",a+b);
 	printf(" la diffèrence a - b = %d\n",a-b);
 	printf(" la multiplication a * b = %d\n",a*b);
@@ -18,8 +20,8 @@ int main() {
 	printf(" le modulo a %% b = %d\n",a%b);
 	printf("\n");
 	
-	// les opérateurs logiques 
-	printf("test des opérateurs logiques sur a = %d et b = %d\n\n", a,b);
+	/* Les opérateurs logiques */ 
+	printf("Test des opérateurs logiques sur a = %d et b = %d\n\n", a,b);
 	printf(" la négation de a  = %d\n",!a);
 	printf(" la négation de b  = %d\n",!b);
 	printf(" a && b = %d\n",a&&b);
