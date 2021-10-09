@@ -5,7 +5,9 @@
 /*----------------------------------------------------------------------------*/ 
 
 int main () {
-	printf("\n------ Exercice 1.4 : variables ------\n\n");
+	printf("\n------ Exercice 1.4 : Affichage des valeurs des variables des différents types de base ------\n\n");
+	
+	/* Initialisation des variables */
 	char my_char_var = 120;
 	unsigned char my_uchar_var = 253; 
 	short my_short_var = -2021;
@@ -19,6 +21,8 @@ int main () {
 	float my_float_var = 3.147  ;
 	double my_double_var = 3.14E-12 ;
 	long double my_ldouble_var = 3.14E-22 ;
+	
+	/* Affichage */
 	printf("la variable %c est de type char et de taille %ld octet(s)\n",my_char_var,sizeof(my_char_var));
 	printf("la variable %c est de type unsigned char et de taille %ld octet(s)\n",my_uchar_var,sizeof(my_uchar_var));
 	printf("la variable %hd est de type sort et de taille %ld octet(s)\n",my_short_var,sizeof(my_short_var));
