@@ -15,8 +15,8 @@
 # Difficulté
 * Pas de difficultés dans les exercices 1 - 8 
 * Difficultés Exercice 9 : 
-    * Ne pas savoir comment manipuler des tables parce qu'on l'avait pas encore vu en cours
-    * Trouver une autre méthode pour la conversion d'un nombre décimal en un nombre binaire en utilisant les opérateurs de manipulation de bits
+    * Ne pas savoir comment manipuler des tableaux parce qu'on l'avait pas encore vu en cours
+    * Trouver une méthode autre que la division successive pour la conversion d'un nombre décimal en un nombre binaire en utilisant les opérateurs de manipulation de bits
 
 # Commentaires
 Le cours a bien servi afin de résoudre ces exercices.
