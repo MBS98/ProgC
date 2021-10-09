@@ -9,7 +9,7 @@
 int main () {
 	int N = 4069 ;
 
-	printf("\n------Exercice 1.9 : determiner l'expression binaire d'un nombre N-----\n\n");
+	printf("\n------Exercice 1.9 : Affichage de l'expression binaire d'un nombre N-----\n\n");
 
 	printf("N = %i \n",N);
 
@@ -39,8 +39,8 @@ int main () {
 		n=n+1;
 	}
 	
-	//L'affichage du nombre binaire
-  int i = 0;
+//L'affichage du nombre binaire
+  	int i = 0;
 	for (i = n-1 ; i >= 0 ; i--) {
 		printf("%i",binaire[i]);
 	}
