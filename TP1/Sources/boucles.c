@@ -5,7 +5,9 @@
 /*-----------------------------------------------------------------------------------*/
 
 int main () {
-	printf("\n------ Exercice 1.6 : boucles ------\n\n");
+	printf("\n------ Exercice 1.6 : Affichage d'un triangle rectangle avec des # et des * ------\n\n");
+	
+	/* Initialisation des variables */
 	int compteur = 5 ;
 	
 	/*---------------------------------------------*/
