@@ -5,10 +5,12 @@
 /*---------------------------------------------------------*/
 
 int main() {
-  printf("\n------ Exercice 2.2 : Bits -----\n\n");
-  printf("Si les 4ème et 20ème bits de gauche sont 1 (en binaire) le programme affiche 1 sinon 0\n\n");
+  printf("\n------ Exercice 2.2 : Vérification si les 4ème et 20ème bits de gauche d'un nombre binaire sont 1, dans ce cas, le programme affiche 1 sinon il affiche 0\ -----\n\n");
+	
+	/* Initialisation des variables */
 	int d = 87381;
 	int b = 0b00010000000000000001;
+	
 	printf("pour d = %d, le programme affiche : ",d);
 	if ( d & b == b){
 
