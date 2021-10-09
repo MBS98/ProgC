@@ -7,13 +7,13 @@
 /*--------------------------------------------------------------------------------------*/
 
 int main () {
-	int N = 4069 ;
+	int N = 4096 ;
 
-	printf("\n------Exercice 1.9 : Affichage de l'expression binaire d'un nombre N-----\n\n");
+	printf("\n------ Exercice 1.9 : Affichage de l'expression binaire d'un nombre N -----\n\n");
 
 	printf("N = %i \n",N);
 
-	printf("L'expression binaire de N est :  ");
+	printf("L'expression binaire de N est : ");
   
   // Determination de la longueur de l'expression binaire et par suite la longueur du tableau
   int a = 2;
