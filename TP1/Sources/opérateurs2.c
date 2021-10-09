@@ -14,21 +14,21 @@ int main () {
 	
 	/* Switch */
 	switch (op){
-	case '+' : printf(" num1 + num 2 = : %d\n", num1+num2);
+	case '+' : printf(" num1 + num 2 =  %d\n", num1+num2);
 	break;
-	case '-' : printf(" num1 - num 2 = : %d\n", num1-num2);
+	case '-' : printf(" num1 - num 2 =  %d\n", num1-num2);
 	break;
-	case '*' : printf(" num1 * num 2 = : %d\n", num1*num2);
+	case '*' : printf(" num1 * num 2 =  %d\n", num1*num2);
 	break;
-	case '/' : printf(" num1 / num 2 = : %d\n", num1/num2);
+	case '/' : printf(" num1 / num 2 =  %d\n", num1/num2);
 	break;
-	case '%' : printf(" num1 %% num 2 = : %d\n", num1%num2);
+	case '%' : printf(" num1 %% num 2 =  %d\n", num1%num2);
 	break;
-	case '&' : printf(" num1 & num 2 = : %d\n", num1&num2);
+	case '&' : printf(" num1 & num 2 =  %d\n", num1&num2);
 	break;
-	case '|' : printf(" num1 | num 2 = : %d\n", num1|num2);
+	case '|' : printf(" num1 | num 2 =  %d\n", num1|num2);
 	break;
-	case '~' : printf(" ~ num 1 = : %d\n", ~num1);
+	case '~' : printf(" ~ num 1 =  %d\n", ~num1);
 	break;
 	}
 	printf("\n");
