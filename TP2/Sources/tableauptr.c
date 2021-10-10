@@ -39,11 +39,11 @@ for (p=tab; p<tab + f; p++){ //on affiche les valeurs du tableau
 
 if (c%2==0){ //si l'indice de la case est paire on affiche la phrase qui suit
 
-printf("Case %i (valeur x3): %d\n", c, *p);
+printf("Case %i (valeur x3): %f\n", c, *p);
 }
 
 else{
-printf("Case %d: %d\n", c, *p);
+printf("Case %d: %f\n", c, *p);
 }
 
 c++; //on incremente c de 1
