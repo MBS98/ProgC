@@ -1,10 +1,14 @@
+/* Bibliothèques */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
+/*---------------------------------------------------------*/
+
 int main(){
 
-      srand(time(0));  //pour eviter qu on genere la meme sequence de nombres aleatoires a chaque compilation
+      srand(time(0));  //pour eviter qu'on genere la meme sequence de nombres aleatoires a chaque compilation
 
       int n = 100;
       int tab[n];
@@ -36,7 +40,48 @@ int main(){
       else{
       printf("Entier non present\n");
       }
+      
+      /* Methode N°2 
+      // Déclaration des variables
+	int val = 28; // Valeur à trouver
+	int tab [100];
+	int *p = NULL;
+	int compt = 0 ;
 
+      // Création du tableau
+	srand(time(NULL));
+	for (p = tab ; p < tab + 100; p++) {
+		
+		*p = rand() % 101;  / Génération de nombres entre 0 et 100
+	}
+	printf("\n");
+
+      // Affichage du tableau
+	for ( int j = 0 ; j < 100 ; j ++ ) {
+		printf("%d ", tab[j]);
+	}
+	printf("\n");
+
+      // La recherche
+	for ( int i = 0 ; i < 100 ; i ++) {
+		if ( tab [i] == val ) {
+		compt = 1;
+		}
+		else {
+		compt = 0;
+		}
+	}
+
+	if ( compt == 1){
+		printf("l'entier %d est présent dans le tableau",val);
+	}
+	else if ( compt == 0 ){
+		printf("l'entier %d n'est pas présent dans le tableau",val);
+	}
+
+	printf("\n");
+      */
+      
 return 0;
 }
 
