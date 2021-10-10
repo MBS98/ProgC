@@ -10,6 +10,8 @@
 * https://zestedesavoir.com/tutoriels/755/le-langage-c-1/1043_aggregats-memoire-et-fichiers/4279_structures/
 * Le cours: Les pointeurs, les structures et les fonctions.
 * https://stackoverflow.com/questions/551147/detailed-tutorial-on-structures-in-c
+* https://tdinfo.phelma.grenoble-inp.fr/2Aproj/ressources_soutien/FichesHTML/2XX-Pointeurs-et-tableaux.html
+* https://openclassrooms.com/forum/sujet/besoin-d-aide-recherche-nombre-aleatoire-entre-0-et-100-99144
 
 # Difficulté
 
