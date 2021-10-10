@@ -41,6 +41,7 @@ int main (int a, int b) {
 	for (int i = 1 ; i < b ; i++) {
 	a = a * c;
 	}
+	
 	printf("%d puissance %d = %d\n", c, b, a);
 
 return 0;
