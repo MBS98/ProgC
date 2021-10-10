@@ -1,11 +1,15 @@
+/* Bibliothèques */
+
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
 
-int main () { 
+/*---------------------------------------------------------*/
+
+int main () {
+      printf("\n------ Exercice 2.5 : Etudiant 2 ------\n\n");
 
       struct etudiant {
-
           char nom[20];
           char prenom[20];
           char adresse[                                                                                                                      0];
