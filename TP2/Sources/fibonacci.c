@@ -20,7 +20,9 @@ int main() {
 	int U[n];
 	int taille = n+1;
 	U[0]=u0;
-	U[1]=u1; */
+	U[1]=u1; 
+	
+	printf ("La taille du tableau est: %d\n", taille); */
 	
 	for (int i = 2 ; i <= n ; i++) {
 	
@@ -32,7 +34,8 @@ int main() {
 	printf("U%d = %d  ",j,tab[j]);
 
 	}
-
+	
+	printf("\n");
 
 	return 0 ;
 }
