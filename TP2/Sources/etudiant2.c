@@ -12,13 +12,13 @@ int main () {
       struct etudiant {
           char nom[20];
           char prenom[20];
-          char adresse[                                                                                                                      0];
+          char adresse[10];                                                                                                                      0];
           int note1;
           int note2;
 
       };
 
-      struct etudiant exercice6[4];
+      struct etudiant exercice6[5];
 
       strcpy(exercice6[0].nom,"Taider");
       strcpy(exercice6[0].prenom,"Silia");
@@ -52,7 +52,7 @@ int main () {
 
       for (int i=0; i<5; i++){
 
-          printf("Etudiant %d: Nom: %c Prenom: %c Adresse: %c Note en maths: %d Note en informatique: %d\n", i, exercice6[i].nom, exercice6[i].prenom, exercice6[i].adresse, exercice6[i].note1, exercice6[i].note2);
+          printf("Etudiant %d: Nom: %s Prenom: %s Adresse: %s Note en maths: %d Note en informatique: %d\n", i, exercice6[i].nom, exercice6[i].prenom, exercice6[i].adresse, exercice6[i].note1, exercice6[i].note2);
       };
 
       printf("\n");
