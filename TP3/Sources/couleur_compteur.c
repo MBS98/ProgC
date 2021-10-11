@@ -1,3 +1,8 @@
+/* Fichier: couleur_compteur.c
+* Le programme crée et remplit un tableau avec des couleurs et élimine la redondance en affichant devant la couleur le nombre de fois que celle ci apparait dans le tableau.
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
