@@ -1,3 +1,8 @@
+/* Fichier: chercher.c
+* crée un tableau de 100 entiers verifie l'existance d'un entier dans ce tableau, affiche un message si c'est le cas
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
