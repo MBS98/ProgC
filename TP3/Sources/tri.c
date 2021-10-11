@@ -1,3 +1,8 @@
+/* Fichier: tri.c
+* crée un tableau de 100 entiers et les trie par ordre croissant.
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
