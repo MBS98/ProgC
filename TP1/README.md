@@ -1,10 +1,10 @@
 
 # Rapport d'auto-évaluation : TP N° 1 
 # Bibliothèques
-* stdio.h
-* float.h
-* limits.h
-* math.h 
+* <stdio.h>
+* <float.h>
+* <limits.h>
+* <math.h> 
 
 # Références
 * https://www.youtube.com/watch?v=6nkUWnCoRp4&ab_channel=FormationVid%C3%A9o
