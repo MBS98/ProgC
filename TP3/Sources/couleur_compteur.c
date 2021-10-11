@@ -15,7 +15,7 @@ int main() {
 
 	struct couleur couleurs[100]={0};
 
-	/* remplir avec des valuers pour tester */
+	/* remplir avec des valeurs pour tester */
 	couleurs[0].r = 0x11;
 	couleurs[0].b = 0x11;
 	couleurs[0].v = 0x11;
