@@ -1,3 +1,7 @@
+/* Fichier: chaine.c
+* Affiche les octets composant une couleur (Une couleur en format RGBA contient 4 valeurs : rouge (R), vert (G), bleu (B) et alpha (A). Chaque valeur est un octet)
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
 /* Bibliothèques */
 
 #include <stdio.h>
