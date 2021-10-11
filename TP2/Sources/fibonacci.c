@@ -1,3 +1,8 @@
+/* Fichier: fibonacci.c
+* Le programme affiche les n termes de la suite de Fibonacci U0, U1, U2,...Un
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
