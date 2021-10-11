@@ -4,6 +4,7 @@
 * <float.h>
 * <math.h>
 * <string.h>
+* <stdlib.h>
 
 # Références
 
