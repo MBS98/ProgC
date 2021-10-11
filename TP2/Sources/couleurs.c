@@ -1,6 +1,7 @@
 /* Bibliothèques */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 /*--------------------------------------------------------------------------------------*/
 
@@ -17,11 +18,11 @@ int main() {
 	struct couleur couleurs[10];
 	
 	int i;	
-	for (i=0;i<10;i++){
-		couleurs[i].r = 0xef;
-		couleurs[i].b = 0x78;
-		couleurs[i].v = 0x55;
-		couleurs[i].alpha = 0x03;
+	for (i=0;i<10;i++){ // On genere des nombres aleatoires entre 0 et 100 et on les affichera en hexadecimal
+		couleurs[i].r = rand() % 100;
+		couleurs[i].b = rand() % 100;
+		couleurs[i].v = rand() % 100;
+		couleurs[i].alpha = rand() % 100;
 	}
 	
 	for (i=0;i<10;i++){
