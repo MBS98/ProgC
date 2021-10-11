@@ -1,3 +1,8 @@
+/* Fichier: binaire.c
+* utilise for pour l'affichage d'une variable int en format binaire
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
