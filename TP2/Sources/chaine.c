@@ -1,6 +1,6 @@
 /* Fichier: chaine.c
-* Affiche la taille et la copie d'une chaine de caractères.
-* Affiche la concaténation de deux chaines.
+* Le programme affiche : - la taille et la copie d'une chaine de caractères.
+                         - La concaténation de deux chaines de caractères.
 * auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
 */
 
