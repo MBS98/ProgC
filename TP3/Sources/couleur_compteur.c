@@ -1,4 +1,9 @@
+/* Bibliothèques */
+
 #include <stdio.h>
+
+/*------------------------------------------------------------------ */
+
 int main() {
 	printf("\n------ Exercice 3.7 : couleur_compteur ------\n\n");
 	int i;	
