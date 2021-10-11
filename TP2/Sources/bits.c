@@ -1,5 +1,5 @@
 /* Fichier: bits.c
-* Vérifie si les 4ème et 20ème bits de gauche d'un nombre binaire sont 1, dans ce cas, le programme affiche 1 sinon il affiche 0
+* Le programme vérifie si les 4ème et 20ème bits de gauche d'un nombre binaire sont 1, dans ce cas, le programme affiche 1 sinon il affiche 0
 * auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
 */
 
