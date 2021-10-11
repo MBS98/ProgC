@@ -1,3 +1,8 @@
+/* Fichier: recherche_dichotomique.c
+* crée un tableau de 100 entiers, le trie par ordre croissant et verifie l'existance d'un entier dans ce tableau, affiche un message si c'est le cas (en utilisant la methode de la recherche dichotomique)
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
