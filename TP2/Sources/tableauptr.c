@@ -1,3 +1,9 @@
+/* Fichier: tableauptr.c
+* Le programme crée et remplit avec des valeurs aléatoires deux tableaux différents : int et float. 
+Pour les deux tableaux, si l'indice est divisible par 2, on multiplie la valeur à cette position par 3.
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
