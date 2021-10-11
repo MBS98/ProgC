@@ -1,3 +1,8 @@
+/* Fichier: opérateurs.c
+* utilise deux variables pour tester les différents opérateurs arithmétiques et logiques.
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
