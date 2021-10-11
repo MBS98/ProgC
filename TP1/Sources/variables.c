@@ -1,3 +1,8 @@
+/* Fichier: variables.c
+* affecte et affiche les valeurs des variables des différents types de base
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
