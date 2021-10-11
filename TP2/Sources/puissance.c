@@ -1,3 +1,8 @@
+/* Fichier: puissance.c
+* Le programme prend deux entiers a et b et affiche la valeur du nombre a élevé à une puissance b.
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
