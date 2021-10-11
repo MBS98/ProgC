@@ -1,3 +1,8 @@
+/* Fichier: opérateurs2.c
+* utilise switch et le code du premier exercice pour realiser une operation sur 2 variables selon l'operateur rentré en variable
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
