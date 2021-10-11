@@ -1,3 +1,8 @@
+/* Fichier: sizeof..c
+* teste un code donné dans l enoncé et affiche et interprete le resultat
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
