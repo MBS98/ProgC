@@ -1,3 +1,8 @@
+/* Fichier: grand_petit.c
+*  un tableau de 100 entiers et calcule le numéro plus grand et le numéro plus petit
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
