@@ -1,6 +1,11 @@
+/* Bibliothèques */
+
 #include <stdio.h>
+
+/*--------------------------------------------------------------------------------------*/
+
 int main() {
-	printf("\n------ Exercice 2.7 : couleurs ------\n\n");
+	printf("\n------ Exercice 2.7 : Affichage des couleurs ------\n\n");
 	/* structure couleurs */
 	struct couleur{
 		unsigned char r;
