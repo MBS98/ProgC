@@ -1,3 +1,8 @@
+/* Fichier: boucles.c
+* affiche un triangle rectangle avec une boucle for dont la taille depend de variables
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
