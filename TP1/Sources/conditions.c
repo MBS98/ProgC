@@ -1,3 +1,8 @@
+/* Fichier: conditions.c
+* utilise les boucles et les branchements inconditionnels pour l'affichage de numéros <= 1000 qui sont divisible par certains numeros
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
