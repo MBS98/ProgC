@@ -1,3 +1,9 @@
+/* Fichier: ptrvariables.c
+* Le programme affecte et affiche les valeurs des variables de différents types de base : 
+         (char, short, int, long int, long long int, float, double, long double) en utilisant leurs adresses.
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
