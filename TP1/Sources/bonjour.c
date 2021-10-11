@@ -1,3 +1,8 @@
+/* Fichier: bonjour.c
+* affiche "bonjour le monde!" à l'écran
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibiliothèques */
 
 #include <stdio.h>
