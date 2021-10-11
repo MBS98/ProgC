@@ -1,3 +1,9 @@
+/* Fichier: chaine.c
+* Affiche la taille et la copie d'une chaine de caractères.
+* Affiche la concaténation de deux chaines.
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
@@ -17,7 +23,8 @@ int main () {
 
 	char chaine3[n3]; //copie de chaine 1
 	char chaine4[n4]; //concatenation de la chaine 1 et 2
-
+	
+	/* Taille */
 	printf("La taille de la chaine 1: %d\n", n1);
 	printf("La taille de la chaine 2: %d\n", n2);
 
