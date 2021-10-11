@@ -4,6 +4,8 @@
 * <float.h>
 * <math.h>
 * <string.h>
+* <stdlib.h>
+* <time.h>
 
 # Références
 
