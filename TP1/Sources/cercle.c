@@ -1,3 +1,8 @@
+/* Fichier: cercle.c
+* calcule l'aire et le périmètre d'un cercle
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
