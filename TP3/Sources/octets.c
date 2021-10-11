@@ -1,3 +1,8 @@
+/* Fichier: octets.c
+* utilise char et les opérateurs de pointeurs pour voir les octets d'une variable short, int, long int, float, double et long double
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h>
