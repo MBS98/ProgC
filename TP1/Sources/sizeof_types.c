@@ -1,3 +1,8 @@
+/* Fichier: sizeof_types.c
+* affiche la taille des différents types de base (en octets)
+* auteur: Silia TAIDER - Mariem Ben Salah - Omar Gasri
+*/
+
 /* Bibliothèques */
 
 #include <stdio.h> 
